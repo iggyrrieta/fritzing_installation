@@ -2,6 +2,14 @@
 
 Guide to test `Fritzing` and play around before buying it.
 
+Steps:
+
+1. Create a folder in $HOME called `fritzing`
+2. `cd $HOME/fritzing`
+3. Install requirements and clone/build `libgit2` in `$HOME/fritzing`
+4. Clone and build `fritzing app` and `fritzing parts` in `$HOME/fritzing`
+5. Copy Fritzing.desktop to `/usr/share/applications/Fritzing.desktop`
+
 ## Requirements
 
 > Library `libgit2` must be at same level folder than `fritzing-app`.
