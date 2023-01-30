@@ -1,6 +1,6 @@
 # Fritzing
 
-Guide to test ``Fritzing` and play around before buying it.
+Guide to test `Fritzing` and play around before buying it.
 
 ## Requirements
 
