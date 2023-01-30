@@ -7,4 +7,3 @@ Icon=$HOME/fritzing/fritzing-app/resources/images/fritzing_icon.png
 Comment=Fritzing app
 Terminal=false
 Categories=GNOME;Application;Development;
-Name[en_US]=Fritzing
