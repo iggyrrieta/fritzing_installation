@@ -1,4 +1,6 @@
+# Fritzing
 
+Guide to test ``Fritzing` and play around before buying it.
 
 ## Requirements
 
@@ -53,3 +55,4 @@ make
 sudo cp Fritzing.desktop /usr/share/applications/
 ```
 
+> Now you can easily find Fritzing when looking inside applications
